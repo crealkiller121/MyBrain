@@ -1,0 +1,1 @@
+This obsidian project is synced with git hub
