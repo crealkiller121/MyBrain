@@ -1,0 +1,2 @@
+-> Ollama is a tool used to run any model locally using cli
+-> I tried running the deepkseekR1 with 
